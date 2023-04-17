@@ -1,7 +1,7 @@
 aaaaaaaaaaa
-<<<<<<< HEAD
-nakasonekoutyannpuru
-=======
 
->>>>>>> refs/remotes/origin/main
+
+oooooooooo
+
+
 bbbbbbbbbbb
