@@ -1,8 +1,3 @@
 aaaaaaaaaaa
-<<<<<<< HEAD
 nakasonekoutyannpuru
-=======
-iiiiiiiiii
-eeeeeeeee
->>>>>>> refs/remotes/origin/main
 bbbbbbbbbbb
