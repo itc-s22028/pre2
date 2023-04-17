@@ -1,4 +1,6 @@
-                     o
-                   o   o                                                                                                                                                       o o   o o                                                                                                                                                       o   o
-                   o   o
-                   o o o 
+      ooo      ooo            oo           oo
+      oo   ooooooooooo  oooooooooooooo   oooooo  ooooooo
+     ooo   oo  ooo  oo  oo    oo    oo     oo    ooooooo
+    o oo   ooooooooooo    oooooooooo      ooo o  ooooooo
+      oo       ooo        oo  oo  oo     o oo    oo￼o oo
+      oo       ooo       oo   oo   oo   o  oo    oo     o
