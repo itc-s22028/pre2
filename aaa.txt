@@ -1,6 +1,6 @@
                ooo                ooo
                ooo                ooo
-               ooo       x         ooo       x
+       o       ooo       x        ooo       x
                ooo                ooo
                ooo                ooo
 oooooooooooooooooooooooooooooooooooooooooooooooooooo
@@ -14,6 +14,6 @@ oooooooooooooooooooooooooooooooooooooooooooooooooooo
 oooooooooooooooooooooooooooooooooooooooooooooooooooo
                ooo                ooo
                ooo                ooo
-       o       ooo                ooo       x
+       o       ooo                ooo       o
                ooo                ooo
                ooo                ooo
